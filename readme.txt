@@ -1,3 +1,4 @@
-Git is a distributec version control system.
-Git is free software distributed under the GPL.
 Harbin Institite of Technology.
+Git stage is very interesting.
+Git is a distributed version control system.
+Git track changes.
